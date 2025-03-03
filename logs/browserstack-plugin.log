@@ -1,0 +1,2 @@
+09:26:07.375 [ApplicationImpl pooled thread 1] INFO  c.b.l.BrowserStackRunExtension - application
+09:26:07.377 [ApplicationImpl pooled thread 1] INFO  com.browserstack.utils.Helpers - null
