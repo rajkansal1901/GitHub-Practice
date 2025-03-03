@@ -4,5 +4,6 @@ public class Test1 {
         int i = 43;
         int j = 456;
         System.out.println(Math.max(i, j));
+        System.out.println("Hello");
     }
 }
